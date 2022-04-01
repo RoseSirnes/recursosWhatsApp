@@ -4,7 +4,8 @@ A lista de transmissão é um recurso que permite enviar uma mensagem para vári
 
 Para criar uma lista de transmissão é necessário que você tenha instalado baixado no seu celular o aplicativo WhatsAapp. Caso não tenha, o primeiro passo é acessar a Play Store (dipositivos Android) ou Apple Store (dispositivos IOS) e baixar o WhatsAapp no seu celular. 
 
->Não é possível criar uma lista de transmissão pelo WhatsAapp Web.
+Não é possível criar uma lista de transmissão pelo WhatsApp Web.
+
 
 
 ## Criando uma lista de transmissão 
